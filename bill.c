@@ -18,7 +18,7 @@ int main() {
     // Declare variable for the total bill cost
     float totalCost;
 
-    // User information
+    // Information of the User
     char userName[50];
 
     // Welcome message and get user's name
